@@ -1,1 +1,1 @@
-# Learning-Git
+A makefile is a text file containing instructions used by the make utility to automate the build process of software projects and other complex tasks. It acts as a blueprint, defining rules that specify how to create or update files (targets) based on their dependencies and the commands (recipes) required to achieve this.
